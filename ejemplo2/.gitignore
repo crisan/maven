@@ -58,6 +58,7 @@ local.properties
 *.ipr
 *.ids
 *.orig
+*.idea
 
 ######################
 # Visual Studio Code
